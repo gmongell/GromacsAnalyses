@@ -2,6 +2,8 @@
 
 Legacy Fortran and shell tools for post-processing molecular-dynamics trajectories, with emphasis on polymer exposure at liquid interfaces.
 
+**Mongelli Labs:** [Scientific consulting, technical research, and scientific software](https://mongellilabs.wordpress.com/).
+
 ## Functions and engineering applications
 
 | Source | Observed function / inputs and outputs | Inferred engineering application |
